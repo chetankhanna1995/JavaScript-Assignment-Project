@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+
+}
+.textview{
+    height: 40px;
+    border-radius: 8px;
+    width:95%;
+}
+
+.button{
+    font-size: 1.4rem;
+    height: 2.5rem;
+    width: 2.5rem;
+    margin: 4px;
+    border-radius: 12px; 
+    cursor: pointer;   
+}
+.ac-btn{
+    width:45%;
+}
+.back-btn{
+    width: 45%;
+}   

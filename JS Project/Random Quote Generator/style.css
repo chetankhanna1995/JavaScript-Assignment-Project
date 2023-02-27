@@ -1,0 +1,37 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Labrada&display=swap" rel="stylesheet">
+
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    background-image: linear-gradient(to bottom right,#E1A2B8, #9F2BC1);
+}
+.container{
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+          
+}
+
+.quoteHeadig{
+    font-size: 4.2rem;
+    font-family:'Shantell Sans', cursive; ;
+}
+
+.quote{
+    font-size: 2rem;
+    font-family: 'Labrada', serif;
+}
